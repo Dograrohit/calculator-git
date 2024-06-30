@@ -8,10 +8,7 @@ This project is a simple calculator web application developed using HTML, CSS, a
     <li>Description</li>
     <li>Features</li>
     <li>Technologies Used</li>
-    <li>Installation</li>
     <li>Usage</li>
-    <li>Contributing</li>
-    <li>License</li>
     </ul>
 
     
@@ -38,5 +35,5 @@ The Calculator Web App is a straightforward web application that performs basic 
 <ul>
 <li>Enter numbers using the on-screen buttons.</li>
 <li>Click on the operation buttons (+, -, *, /) to perform calculations.</li>
-<li>Use the "C" button to clear the display and start a new calculation.</li>
+<li>Use the "AC" button to clear the display and start a new calculation.</li>
 </ul>
